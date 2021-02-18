@@ -1,5 +1,5 @@
 {
-  "name": "shogijs",
+  "name": "@omniqlo/shogijs",
   "version": "0.0.0-development",
   "description": "JavaScript Shogi (Japanese Chess) library",
   "author": "omniqlo",
@@ -80,6 +80,9 @@
     "bracketSpacing": false,
     "quoteProps": "consistent",
     "trailingComma": "all"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "repository": {
     "type": "git",
